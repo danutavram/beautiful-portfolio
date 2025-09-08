@@ -43,8 +43,8 @@ export const AboutSection = () =>{
                                     <User className="h-6 w-6 text-primary" />
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> Web Development</h4>
-                                    <p className="text-muted-foreground">Creating responsive websites and web applications with modern frameworks.</p>
+                                    <h4 className="font-semibold text-lg"> UI/UX Design</h4>
+                                    <p className="text-muted-foreground">Designing intuitive user interfaces and seamless user experience.</p>
                                 </div>
                             </div>
                         </div>
@@ -54,8 +54,8 @@ export const AboutSection = () =>{
                                     <Briefcase className="h-6 w-6 text-primary" />
                                 </div>
                                 <div className="text-left">
-                                    <h4 className="font-semibold text-lg"> Web Development</h4>
-                                    <p className="text-muted-foreground">Creating responsive websites and web applications with modern frameworks.</p>
+                                    <h4 className="font-semibold text-lg"> Project Management</h4>
+                                    <p className="text-muted-foreground">Leading projects from conception to completion with agile methodologies.</p>
                                 </div>
                             </div>
                         </div>
